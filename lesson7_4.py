@@ -28,3 +28,4 @@ while True
 is_continue = pyip.inputYesNo('請問還要繼續嗎?(y,n)')
 if is_continue != 'yes':
     break
+print('遊戲結束')
